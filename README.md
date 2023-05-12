@@ -24,6 +24,7 @@
 - Fetch
 - Commit
     >> Puts changes into local repository
+    - `git commit -m "Message"`
     - Usual
         - Commit
         - Commit Staged
@@ -111,18 +112,12 @@
 - Local Repository
 - Remote Repository
 
-## More
-### Add, Commit
+## Complete Samples
+### Commit
 ~~~git
     git pull
-
-    # Make changes
-    git add File1 <file> <file>
-
-    # Verify changes
+    git add <file> <file>
     git commit -m 'Message'
-
-    # Send to remote server
     git push
 ~~~
 ### Connect an offline folder 2 git repo
