@@ -18,7 +18,7 @@
 - Push
     >> Sends changes to remote repository
     - `git push`
-    - `git push force`
+    - `git push --force`
 - Clone
 - Checkout to
 - Fetch
