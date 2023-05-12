@@ -83,7 +83,7 @@
 
 <pre>
             Workspace          Index            Local            Remote
-                                                 Repo             Repo
+                          (Staging Area)        Repo             Repo
                 |-----------`commit -a`---------->|                |
                 |                |                |                |
                 |-----`add`----->|----`commit`--->|-----`push`---->|
