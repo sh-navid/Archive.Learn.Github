@@ -15,11 +15,13 @@
     >> To discard changes in working directory
     - `git restore <file>`
 - Pull
+    - `git pull`
 - Push
     >> Sends changes to remote repository
     - `git push`
     - `git push --force`
 - Clone
+    - `git clone <url> <dir>`
 - Checkout to
 - Fetch
 - Commit
@@ -80,6 +82,8 @@
     - File
     - Branch
 - Compare and pull request
+- Tag
+    >> Tag is similar to branch but its immutable
 
 <pre>
          Working Directory
