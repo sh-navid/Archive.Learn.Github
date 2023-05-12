@@ -46,7 +46,9 @@
         - Commit All 
     - Signed Off
         - Commit
+            >> You can see `Signed-off-by <name>` under the commit
             - `git commit -s -m "New Message By Signer"`
+            - `git log`
         - Commit Staged
         - Commit All
     - Undo Last Commit
