@@ -33,15 +33,10 @@
             - `git reset --soft HEAD~1`
         - Delete current commit and data
             - `git reset --hard HEAD~1`
-        - Delete specific commit
+        - Delete until specific commit
             ~~~git
-                git log --pretty=oneline
-                git reset --hard <your commit id>
-
-
                 git log --pretty=oneline --abbrev-commit
                 git reset --hard <commit hash>
-                git push origin HEAD --force
             ~~~
     - Amend
         - Commit [link](https://stackoverflow.com/a/179147/2227070)
