@@ -43,7 +43,7 @@
             >> Allowing you to change the commit message of the most recent commit
             - `git commit --amend -m "New Message"`
         - Commit Staged
-        - Commit All
+        - Commit All 
     - Signed Off
         - Commit
             - `git commit -s -m "New Message By Signer"`
