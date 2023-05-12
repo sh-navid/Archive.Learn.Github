@@ -59,6 +59,12 @@
     - Unstage All Changes
     - Discard All Changes
 - Stage...
+- Branch
+    - Create
+        - `git checkout -b <name>`
+        - `git push --set-upstream origin <name>`
+    - Change Branch
+        - `git push --set-upstream origin <name>`
 
 <pre>
             Workspace          Index            Local            Remote
