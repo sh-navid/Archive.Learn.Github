@@ -78,7 +78,7 @@
     >> Stash can be seen as temporary space to store your partial changes
     - `git stash`
     - `git stash list`
-    - `git status -s`
+    - `git stash pop`
 - Branch
     - List all branches
         - `git branch`
