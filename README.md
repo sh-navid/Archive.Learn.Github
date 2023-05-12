@@ -58,9 +58,11 @@
     - Stage All Changes
     - Unstage All Changes
     - Discard All Changes
-- Stage...
+- Stage
+    >> Is the step prior to the commit
 - Stash
-    >> Commit creates a new save point on a branch; where as a stash reverts to a previous save point
+    >> Commit creates a new save point on a branch; where as a stash reverts to a previous save point.
+    >> Commit is global, stash is local
 - Branch
     - List all branches
         - `git branch`
