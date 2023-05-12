@@ -87,6 +87,9 @@
         - `git checkout master`
         - `git merge <branch-name>`
         - `git push`
+    - Remove a branch
+        - `git branch -d <local-branch>`
+        - `git push origin -d <remote-branch>`
 - Diff
     - `git diff`
 - Tag
