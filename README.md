@@ -1,4 +1,33 @@
 # GIT
+## Concepts
+- Pull
+- Push
+- Clone
+- Checkout to
+- Fetch
+- Commit
+    - Usual
+        - Commit
+        - Commit Staged
+        - Commit All
+    - Amend
+        - Commit [link](https://stackoverflow.com/a/179147/2227070)
+            >> Allowing you to change the commit message of the most recent commit
+            - `git commit --amend -m "New Message"`
+        - Commit Staged
+        - Commit All
+    - Signed Off
+        - Commit
+        - Commit Staged
+        - Commit All
+    - Undo Last Commit
+- Stage
+    - Stage All Changes
+    - Unstage All Changes
+    - Discard All Changes
+    
+
+## More
 - _**Disclaimer**: This section is not an official resource and is for educational purposes only. The codes may be wrong or not suitable for a non-educational environment._
 ### Connect an offline folder 2 git repo
 ~~~git
