@@ -59,12 +59,20 @@
     - Unstage All Changes
     - Discard All Changes
 - Stage...
+- Stash
+    >> Commit creates a new save point on a branch; where as a stash reverts to a previous save point
 - Branch
+    - List all branches
+        - `git branch`
     - Create
         - `git checkout -b <name>`
         - `git push --set-upstream origin <name>`
     - Change Branch
-        - `git push --set-upstream origin <name>`
+        - `git checkout <name>`
+- Diff
+    - File
+    - Branch
+- Compare and pull request
 
 <pre>
             Workspace          Index            Local            Remote
