@@ -79,10 +79,9 @@
     - `git stash`
     - `git stash list`
     - `git stash pop`
-        - `git checkout --ours README.md`
+        - `git checkout --ours|--theirs <filename>`
         - `git add .` | `git merge`
         - `git push`
-        - `hello`
 - Branch
     - List all branches
         - `git branch`
