@@ -25,7 +25,28 @@
     - Stage All Changes
     - Unstage All Changes
     - Discard All Changes
-    
+
+<pre>
+            Workspace          index            local            Remote
+                                                 Repo             Repo
+                |                |                |                |
+                |                |                |                |
+                |                |                |                |
+                |                |                |                |
+                |                |                |                |
+                |                |                |                |
+                |                |                |                |
+                |                |                |                |
+                |                |                |                |
+                |                |                |                |
+                |                |                |                |
+                |                |                |                |
+                |                |                |                |
+                |                |                |                |
+                |                |                |                |
+                |                |                |                |
+
+</pre>
 
 ## More
 - _**Disclaimer**: This section is not an official resource and is for educational purposes only. The codes may be wrong or not suitable for a non-educational environment._
