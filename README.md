@@ -15,6 +15,7 @@
     >> To discard changes in working directory
     - `git restore <file>`
 - Pull
+    >> Copies changes from remote repository
     - `git pull`
 - Push
     >> Sends changes to remote repository
@@ -81,18 +82,19 @@
 - Diff
     - File
     - Branch
-- Compare and pull request
 - Tag
     >> Tag is similar to branch but its immutable
+- Head
+    >> Pointer to the latest commit of branch
 
 <pre>
-         Working Directory
-                ||
-                \/
-           Staging Area
-                ||
-                \/
-         Remote Repository
+                            Working Directory
+                                    ||
+                                    \/
+                            Staging Area
+                                    ||
+                                    \/
+                            Remote Repository
 </pre>
 ___
 <pre>
@@ -125,6 +127,7 @@ ___
     >> Folder of our codes
 - Local Repository
 - Remote Repository
+- Compare and pull request
 
 ## Complete Samples
 ### Commit
