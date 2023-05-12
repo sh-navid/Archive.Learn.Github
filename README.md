@@ -69,6 +69,9 @@
         - `git push --set-upstream origin <name>`
     - Change Branch
         - `git checkout <name>`
+    - Merge branch to master
+        - `git checkout master`
+        - `git merge <branch-name>`
 - Diff
     - File
     - Branch
