@@ -72,6 +72,7 @@
     - Merge branch to master
         - `git checkout master`
         - `git merge <branch-name>`
+        - `git push`
 - Diff
     - File
     - Branch
