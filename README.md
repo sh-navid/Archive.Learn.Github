@@ -46,6 +46,7 @@
         - Commit All
     - Signed Off
         - Commit
+            - `git commit -s -m "New Message By Signer"`
         - Commit Staged
         - Commit All
     - Undo Last Commit
