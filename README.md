@@ -75,6 +75,10 @@
 - Stash
     >> Commit creates a new save point on a branch; where as a stash reverts to a previous save point.
     >> Commit is global, stash is local
+    >> Stash can be seen as temporary space to store your partial changes
+    - `git stash`
+    - `git stash list`
+    - `git status -s`
 - Branch
     - List all branches
         - `git branch`
