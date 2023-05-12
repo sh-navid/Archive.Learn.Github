@@ -87,8 +87,7 @@
         - `git merge <branch-name>`
         - `git push`
 - Diff
-    - File
-    - Branch
+    - `git diff`
 - Tag
     >> Tag is similar to branch but its immutable
 - Head
