@@ -83,6 +83,9 @@
 
 [source](https://stackoverflow.com/a/30039242/2227070)
 
+## Terms
+- Unstaged
+    >> Are changes that are not tracked by the Git
 - Workspace (Working directory)
     >> Folder of our codes
 - Local Repository
