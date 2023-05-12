@@ -82,6 +82,7 @@
         - `git checkout --ours README.md`
         - `git add .` | `git merge`
         - `git push`
+        - `hello`
 - Branch
     - List all branches
         - `git branch`
