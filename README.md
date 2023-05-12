@@ -1,12 +1,19 @@
 # GIT
 - _**Disclaimer**: This section is not an official resource and is for educational purposes only. The codes may be wrong or not suitable for a non-educational environment._
 ## Concepts
+- Config
+    - List git configuration
+        - `git config --list`
 - Log
     - `git log`
     - `git log --pretty=oneline`
     - `git log --pretty=oneline --abbrev-commit`
+- Review
+    - `git show <hash>`
+        - `+` is added and `-` is removed lines
 - Status
     - `git status`
+    - `git status -s`
 - Add
     >> To update what will be committed
     - `git add .`
