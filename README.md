@@ -82,6 +82,16 @@
 - Compare and pull request
 
 <pre>
+         Working Directory
+                ||
+                \/
+           Staging Area
+                ||
+                \/
+         Remote Repository
+</pre>
+___
+<pre>
             Workspace          Index            Local            Remote
                           (Staging Area)        Repo             Repo
                 |-----------`commit -a`---------->|                |
