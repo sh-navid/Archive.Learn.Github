@@ -28,6 +28,7 @@
     >> Sends changes to remote repository
     - `git push`
     - `git push --force`
+    - `git push origin master`
 - Clone
     - `git clone <url> <dir>`
 - Checkout to
